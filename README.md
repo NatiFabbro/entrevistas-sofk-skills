@@ -1,6 +1,6 @@
 # MetLab Web
 
-## entrevistas-sofk-skills
+## entrevistas-soft-skills
 
 ### Tabla de contenidos
 
